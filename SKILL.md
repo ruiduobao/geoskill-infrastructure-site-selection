@@ -1,4 +1,4 @@
-﻿---
+---
 name: infrastructure-site-selection
 description: >
   Multi-criteria suitability analysis for infrastructure site selection. Use when the user wants to analyze changes, compare multi-temporal
